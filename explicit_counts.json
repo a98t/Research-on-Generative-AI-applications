@@ -1,0 +1,47 @@
+{
+  "AI Coding Assistants": {
+    "Throughput": 1,
+    "Data Governance": 1,
+    "Provenance": 1,
+    "Firestore": 2,
+    "Gemini Code Assist": 3,
+    "Firebase Studio": 2,
+    "GitHub Copilot": 1,
+    "Amazon Q Developer": 1
+  },
+  "Customer Service Agents & Assist": {
+    "RAG": 1,
+    "Grounding": 1,
+    "Guardrails": 1
+  },
+  "Marketing & Copy Generation": {
+    "Brand Voice": 1
+  },
+  "Image Generation & Editing": {},
+  "Video Generation & Editing": {
+    "Temporal Consistency": 1
+  },
+  "Speech Synthesis & Voiceover": {
+    "Latency": 1,
+    "Brand Voice": 1,
+    "Watermarking": 1
+  },
+  "Meeting Notes & Summarization": {
+    "Diarization": 1
+  },
+  "Analytics Q&A (NL to BI)": {
+    "Grounding": 1
+  },
+  "Education & Tutoring": {
+    "Alignment": 1
+  },
+  "Clinical Documentation (Ambient Scribing)": {},
+  "Search & RAG for Enterprise": {
+    "RAG": 2,
+    "Embedding": 1,
+    "Chunking": 1,
+    "Freshness": 1,
+    "Latency": 1
+  },
+  "Legacy Code Modernization": {}
+}

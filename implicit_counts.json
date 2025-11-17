@@ -1,0 +1,27 @@
+{
+  "AI Coding Assistants": {
+    "Code Provenance": 1
+  },
+  "Customer Service Agents & Assist": {
+    "Cost per Token": 1
+  },
+  "Marketing & Copy Generation": {
+    "Cost per Token": 2
+  },
+  "Image Generation & Editing": {
+    "Cost per Token": 1,
+    "Code Provenance": 1
+  },
+  "Video Generation & Editing": {},
+  "Speech Synthesis & Voiceover": {},
+  "Meeting Notes & Summarization": {},
+  "Analytics Q&A (NL to BI)": {},
+  "Education & Tutoring": {},
+  "Clinical Documentation (Ambient Scribing)": {},
+  "Search & RAG for Enterprise": {
+    "Grounding": 1
+  },
+  "Legacy Code Modernization": {
+    "Cost per Token": 1
+  }
+}
